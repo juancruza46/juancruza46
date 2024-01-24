@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @juancruza46
+- 👀 I’m interested in developing and designing new projects/products.
+- 🌱 I’m currently in a rigorous and transformative 12-week, 500-hour full-time immersion into the realm of full-stack web development. While, under the expert guidance of certified instructor this intensive program facilitated an in-depth exploration of the latest front- and back-end programming languages, encompassing HTML, CSS, JavaScript, Node.JS, React.JS, MongoDB, Mongoose, SQL, Python, and Django. 
+- 📫 You can reach me on linkedin: https://www.linkedin.com/in/juancruz99
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love building full stack applications.
