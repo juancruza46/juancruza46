@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 
 <p align="left"> 
-  Hello, Welcome to my Github ! <br> My name is Juan and I am a dedicated Full Stack Software Engineer.<br>
+  Hello, Welcome to my Github! <br> My name is Juan and I am a dedicated Full Stack Software Engineer.<br>
   <br> Based in New York, I enjoy showcasing my passion for coding and relentless pursuit of knowledge. My expertise lies in crafting comprehensive full stack applications, utilizing a diverse range of languages and frameworks. With a commitment to excellence, I adeptly navigate the entire software development lifecycle—from creation and testing to deployment and maintenance. 
 </p>
 
